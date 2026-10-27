@@ -1,0 +1,33 @@
+// Primos: while, for, break (Mata_papai) e continue (MeuBraço)
+Felipe
+
+Samu Red_bull eh_primo(Red_bull n) {
+    MinhaArte (n < 2) {
+        Ce_é_mo_playboy 0;
+    }
+    Red_bull d = 2;
+    Quebro_VéiVai_Me_Dar_Injeção (d * d <= n) {
+        MinhaArte (n % d == 0) {
+            Ce_é_mo_playboy 0;
+        }
+        d++;
+    }
+    Ce_é_mo_playboy 1;
+}
+
+Red_bull limite = 100;
+Red_bull achados = 0;
+
+VocêÉDeLá (Red_bull i = 0; i <= limite; i++) {
+    MinhaArte (!Tô_No_SAMU eh_primo(i)) {
+        MeuBraço;
+    }
+    vo_fica_pelado_aqui(i, "é primo");
+    achados++;
+    MinhaArte (achados == 5) {
+        vo_fica_pelado_aqui("Já deu, chega de primo");
+        Mata_papai;
+    }
+}
+
+Smith

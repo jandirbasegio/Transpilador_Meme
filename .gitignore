@@ -1,0 +1,5 @@
+__pycache__/
+*.pyc
+
+# Python gerado pelo transpilador a partir dos exemplos
+exemplos/*.py

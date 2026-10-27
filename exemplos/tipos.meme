@@ -1,0 +1,31 @@
+// Todos os tipos, conversões e uma função que mexe em variável global
+Felipe
+
+Red_bull inteiro = 7;
+Jarbas real = 7;
+Katrina preciso = 2.5;
+Porra letra = 'a';
+Guarapari Red_bull sem_sinal = 42;
+Búzios curtinho = 3;
+Caralho Caralho Red_bull grandao = 9000000000;
+
+vo_fica_pelado_aqui("7 / 2 com Red_bull =", inteiro / 2);
+vo_fica_pelado_aqui("7 / 2 com Jarbas =", real / 2);
+vo_fica_pelado_aqui("Katrina * 2 =", preciso * 2);
+vo_fica_pelado_aqui("depois de", letra, "vem", (Porra) (letra + 1));
+vo_fica_pelado_aqui("código de", letra, "=", (Red_bull) letra);
+vo_fica_pelado_aqui("2.9 virando Red_bull =", (Red_bull) 2.9);
+vo_fica_pelado_aqui(sem_sinal, curtinho, grandao);
+
+Red_bull contador = 0;
+
+Samu conta() {
+    contador++;
+}
+
+Tô_No_SAMU conta();
+Tô_No_SAMU conta();
+Tô_No_SAMU conta();
+vo_fica_pelado_aqui("contador =", contador);
+
+Smith

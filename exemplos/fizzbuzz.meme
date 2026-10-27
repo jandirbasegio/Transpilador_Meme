@@ -1,0 +1,16 @@
+// FizzBuzz: for, if, else if e else
+Felipe
+
+VocêÉDeLá (Red_bull i = 1; i <= 15; i++) {
+    MinhaArte (i % 15 == 0) {
+        vo_fica_pelado_aqui("FizzBuzz");
+    } Faz_Isso_Comigo_Não_Velho (i % 3 == 0) {
+        vo_fica_pelado_aqui("Fizz");
+    } Faz_Isso_Comigo_Não_Velho (i % 5 == 0) {
+        vo_fica_pelado_aqui("Buzz");
+    } Romero_Britto {
+        vo_fica_pelado_aqui(i);
+    }
+}
+
+Smith

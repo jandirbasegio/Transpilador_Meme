@@ -1,0 +1,28 @@
+// Calculadora: leitura direto na declaração, Katrina (double) e Porra (char)
+Felipe
+
+Samu Katrina dividir(Katrina a, Katrina b) {
+    Ce_é_mo_playboy a / b;
+}
+
+Katrina a = Eu_Tenho_Quantos_Anos_Gente?("Primeiro número: ");
+Porra op = Eu_Tenho_Quantos_Anos_Gente?("Operação (+ - * /): ");
+Katrina b = Eu_Tenho_Quantos_Anos_Gente?("Segundo número: ");
+
+MinhaArte (op == '+') {
+    vo_fica_pelado_aqui("Resultado:", a + b);
+} Faz_Isso_Comigo_Não_Velho (op == '-') {
+    vo_fica_pelado_aqui("Resultado:", a - b);
+} Faz_Isso_Comigo_Não_Velho (op == '*') {
+    vo_fica_pelado_aqui("Resultado:", a * b);
+} Faz_Isso_Comigo_Não_Velho (op == '/') {
+    MinhaArte (b == 0) {
+        vo_fica_pelado_aqui("Divisão por zero não, véi!");
+    } Romero_Britto {
+        vo_fica_pelado_aqui("Resultado:", Tô_No_SAMU dividir(a, b));
+    }
+} Romero_Britto {
+    vo_fica_pelado_aqui("Operação desconhecida:", op);
+}
+
+Smith

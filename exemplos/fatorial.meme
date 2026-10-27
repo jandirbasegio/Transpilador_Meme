@@ -1,0 +1,20 @@
+/* Fatorial recursivo: função, retorno, leitura e if/else */
+Felipe
+
+Samu Caralho Red_bull fatorial(Red_bull n) {
+    MinhaArte (n <= 1) {
+        Ce_é_mo_playboy 1;
+    }
+    Ce_é_mo_playboy n * Tô_No_SAMU fatorial(n - 1);
+}
+
+Red_bull n;
+Eu_Tenho_Quantos_Anos_Gente?("Digite um número: ", n);
+
+MinhaArte (n < 0) {
+    vo_fica_pelado_aqui("Não existe fatorial de número negativo, véi!");
+} Romero_Britto {
+    vo_fica_pelado_aqui("Fatorial de", n, "=", Tô_No_SAMU fatorial(n));
+}
+
+Smith
